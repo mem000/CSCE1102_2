@@ -7,6 +7,6 @@ using namespace std;
 
 void wel() {
 
-cout << "Welcome" << end;
+cout << "Welcome" << endl;
 
 }
